@@ -2,6 +2,19 @@
 
 A browser extension that monitors the Sydney MyRTA booking system for visual changes and alerts you instantly when booking availability changes.
 
+## 📖 Detailed Guide and Step-by-Step Process
+
+For a comprehensive interactive guide with detailed step-by-step instructions, visit:
+
+**[👉 View Detailed Guide](https://robinthomasonline.github.io/apps/sydney_myrta_booking_system_monitoring_system/)**
+
+The detailed guide includes:
+- Interactive step-by-step installation process
+- Browser compatibility information
+- Configuration settings
+- Troubleshooting tips
+- And much more!
+
 ## Quick Start
 
 1. **Download** the extension ZIP file
@@ -201,5 +214,3 @@ Know someone who's struggling to find a booking slot? Share this extension with 
 ---
 
 **Developed By:** [Robin Thomas](https://robinthomasonline.github.io/)
-
-Request Feature or report bug to [robinthomasonline@gmail.com](mailto:robinthomasonline@gmail.com)
